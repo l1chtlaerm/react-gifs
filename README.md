@@ -9,7 +9,7 @@ Simple react starter with the following config:
 - work with `.js` or `.jsx` files
 - main `application.scss` stylesheet is imported in `index.js` as a module to enjoy hot reloading
 
-## Scripts
+## Scripts 
 
 To start the local Webpack Dev Server (usually on port `8080`):
 
